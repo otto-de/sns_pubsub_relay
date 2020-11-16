@@ -1,0 +1,5 @@
+node_modules
+.idea
+.terraform
+terraform/service/index.zip
+node_modules

@@ -1,0 +1,16 @@
+{
+  "name": "sns-to-pubusb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "2.6.0",
+    "sns-validator": "^0.3.4"
+  },
+  "keywords": [],
+  "description": ""
+}
